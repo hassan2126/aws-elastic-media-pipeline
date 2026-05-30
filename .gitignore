@@ -1,0 +1,10 @@
+# Python tracking artifacts
+__pycache__/
+*.pyc
+*.log
+
+# System environment and local test folders
+batch_load/
+.DS_Store
+.idea/
+.vscode/
